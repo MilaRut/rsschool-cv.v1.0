@@ -111,8 +111,8 @@ Adaptive web design. HTML5, SCSS, JavaScript, Gulp.
 
 Adaptive, responsive webdesign. HTML5, SCSS, JavaScript, Gulp. 
 
-[Code](https://github.com/MilaRut/ant-test)
-[Result](https://milarut.github.io/ant-test)
+[Code](https://github.com/MilaRut/antarctic-cruises)
+[Result](https://milarut.github.io/antarctic-cruises/)
 
 
 * Simple Snake Game. 
